@@ -10,7 +10,6 @@ export default function App() {
 
   const onHandleChangeText = text => {
     setTextItem(text);
-    console.log(text);
   };
 
   const addItem = () => {
